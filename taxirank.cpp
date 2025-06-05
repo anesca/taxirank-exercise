@@ -1,5 +1,3 @@
-// Name: Anesca Dames
-// Student Number: 55826628
 
 #include <iostream>
 #include <iomanip>
