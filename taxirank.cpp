@@ -320,7 +320,7 @@ int main()
     TaxiRank taxiRank;
 
     ifstream infile;
-    string filePath = "C:\\data\\taxiData.txt";
+    string filePath = "./taxiData.txt";
 
     // Used textbook: C++ Programming Program Design including Data Structures, 8th Edition, by D.S. Malik page 1224 for file handling
     infile.open(filePath);
